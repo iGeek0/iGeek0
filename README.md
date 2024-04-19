@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Jesus Cardenas
 
-<!--
-**iGeek0/iGeek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en [tecnologías relevantes para ti, como por ejemplo: desarrollo web, aplicaciones móviles, inteligencia artificial, etc.].
 
-Here are some ideas to get you started:
+## Acerca de mí
+- 🌱 Actualmente estoy aprendiendo [tecnología o lenguaje específico].
+- 💼 Trabajo como [tu puesto actual o tu principal área de trabajo].
+- 🎓 Graduado en [tu campo de estudio o universidad].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis proyectos destacados
+Aquí tienes una lista de algunos de mis proyectos destacados:
+
+- [Proyecto 1](enlace_al_repositorio): Breve descripción del proyecto.
+- [Proyecto 2](enlace_al_repositorio): Breve descripción del proyecto.
+- [Proyecto 3](enlace_al_repositorio): Breve descripción del proyecto.
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+
+## Contáctame
+- LinkedIn: [Tu perfil de LinkedIn](enlace_a_tu_perfil)
+- Correo electrónico: [Tu correo electrónico](mailto:tu_correo_electronico)
+
+¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia!
